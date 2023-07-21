@@ -39,9 +39,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Screenshots:
 ### Landing Page
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/6051ec0b-1cc0-4d09-9877-292437970d3d)
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2de11f67-2551-4596-be3d-13f8fd877c49)
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/3b2fa1fe-531c-4ff4-b462-41fa8806a510)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/3fa19270-638c-4da4-b458-6608b972c452)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/b688d1cd-964a-4437-9bc6-479893735f72)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/ce1e210e-3aea-457c-b376-75b77ae3a799)
 
 ### Login 
 ![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/4e29081d-f8d5-4492-b30a-423f077c032c)
