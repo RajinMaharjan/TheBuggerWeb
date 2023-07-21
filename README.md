@@ -37,9 +37,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 
-## Deploy on Vercel
-The app is deployed on Vercel (https://qa-lint-web.vercel.app/).
-
 ## Screenshots:
 ### Landing Page
 ![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/6051ec0b-1cc0-4d09-9877-292437970d3d)
@@ -76,14 +73,3 @@ The app is deployed on Vercel (https://qa-lint-web.vercel.app/).
 ### Dashboard
 ![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2b3dacc6-cf52-4780-8ef7-e9dc53c71507)
 
-
-## Credits
-
-This App is the intern-only project of Vurilo Nepal and Contributors include:
-
-- Bijaya Khanal (QA Engineer, bijaya@vurilo.com)
-- Akash Shrestha (Software Engineer, akash@vurilo.com)
-- Rajin Maharjan (Backend Developer, rajin@vurilo.com)
-- Prajwol Mnandhar (Frontend Developer(Web), prajwol@vurilo.com)
-- Pradeep Tharu (Flutter Developer(Mobile), pradeep@vurilo.com)
-- Suchit Kumar Mahatman (Flutter Developer (Mobile), suchit@vurilo.com)
