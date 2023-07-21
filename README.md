@@ -48,20 +48,15 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Sign Up 
 ![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/23f4062a-07fe-442d-9148-83db8f9b825d)
 
-### Email Verification 
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/d34b27e7-9b11-4e56-8bb1-5ce0af4bb2ae)
-
-### Reset Password 
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/0468f3ab-80fe-4698-8b32-8f419f11cf5e)
-
-### Quiz Landing Page after Login
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/48218958-d6e7-4694-a7a7-6938e1094a08)
+### Quiz Landing Page
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/d13ff87d-80db-438c-98a2-486c33ae7194)
 
 ### Quiz Page
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/12d359f6-fb76-442c-b116-35fbf91adb35)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/d2df7a0f-359d-47df-bfae-dd3276e26cb8)
 
-### Result Modal
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2a9d820a-90fc-4011-9d86-5baff28f7643)
+### Quiz Result
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/19484626-ce3c-4278-84dd-5031fc0c599e)
+
 
 ### Additional Info Page
 ![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/cfb565e5-a426-4d72-92f0-4a0fff35ea7f)
