@@ -59,10 +59,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ### Additional Info Page
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/cfb565e5-a426-4d72-92f0-4a0fff35ea7f)
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/159e2000-4567-4e6a-a93e-9fdd763a7103)
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/333c58ec-d2f7-4e0e-9d54-1d8de02edf93)
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/b44fcd32-6b37-449b-91dd-11f1d16630c2)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/2c22e11b-deb3-4315-bc8a-962a7c730e99)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/7a76fe8d-168d-4abf-adce-eab29c110752)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/570aec05-e79a-46b9-bb16-906276164b5a)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/9c126094-5fee-4311-8c57-fbf4dc004ef8)
 
 ### Dashboard
 ![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2b3dacc6-cf52-4780-8ef7-e9dc53c71507)
