@@ -15,7 +15,7 @@ npm install -g pnpm
 ```
 ### Clone The repository
 ```sh
-git clone 'https://github.com/QA-Lint/QA_Lint-web.git'
+git clone https://github.com/RajinMaharjan/TheBuggerWeb.git
 ```
 #### Open the Terminal in the cloned location then run:
 #### Install the dependencies and node modules of the project 
