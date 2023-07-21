@@ -1,4 +1,3 @@
-
 ## TheBuggerWeb
 
 The Bugger is an App that aims to provide a platform for QA Tester and Companies to connect, earn and improve their quality time usage.This app will help both freelancers and companies to increase their profits.
@@ -44,10 +43,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/ce1e210e-3aea-457c-b376-75b77ae3a799)
 
 ### Login 
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/4e29081d-f8d5-4492-b30a-423f077c032c)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/12eac691-5dff-4008-b98f-5c74472987b2)
 
 ### Sign Up 
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/a50f37de-5251-4662-acbe-f23c999a711a)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/23f4062a-07fe-442d-9148-83db8f9b825d)
 
 ### Email Verification 
 ![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/d34b27e7-9b11-4e56-8bb1-5ce0af4bb2ae)
