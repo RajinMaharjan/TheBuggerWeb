@@ -65,5 +65,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/9c126094-5fee-4311-8c57-fbf4dc004ef8)
 
 ### Dashboard
-![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2b3dacc6-cf52-4780-8ef7-e9dc53c71507)
+![image](https://github.com/RajinMaharjan/TheBuggerWeb/assets/46868526/0ed55ec3-4290-4982-9505-a7c14f72a1cb)
+
 
