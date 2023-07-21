@@ -1,17 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## TheBuggerWeb
 
-First, run the development server:
+The Bugger is an App that aims to provide a platform for QA Tester and Companies to connect, earn and improve their quality time usage.This app will help both freelancers and companies to increase their profits.
+Next 13 framework has been used in the project with Mantine for its pre-built flexible components.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+## Installation and Running the Project
+- Node 16 or higher is required
+
+First install pnpm. pnpm is faster than npm so it has been used.
+
+### Install pnpm globally so you can use it in any project
+```sh
+npm install -g pnpm 
 ```
-
+### Clone The repository
+```sh
+git clone 'https://github.com/QA-Lint/QA_Lint-web.git'
+```
+#### Open the Terminal in the cloned location then run:
+#### Install the dependencies and node modules of the project 
+```sh
+pnpm install 
+```
+#### Run the Project
+```sh
+pnpm dev  
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
@@ -22,17 +36,54 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
+The app is deployed on Vercel (https://qa-lint-web.vercel.app/).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots:
+### Landing Page
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/6051ec0b-1cc0-4d09-9877-292437970d3d)
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2de11f67-2551-4596-be3d-13f8fd877c49)
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/3b2fa1fe-531c-4ff4-b462-41fa8806a510)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Login 
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/4e29081d-f8d5-4492-b30a-423f077c032c)
+
+### Sign Up 
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/a50f37de-5251-4662-acbe-f23c999a711a)
+
+### Email Verification 
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/d34b27e7-9b11-4e56-8bb1-5ce0af4bb2ae)
+
+### Reset Password 
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/0468f3ab-80fe-4698-8b32-8f419f11cf5e)
+
+### Quiz Landing Page after Login
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/48218958-d6e7-4694-a7a7-6938e1094a08)
+
+### Quiz Page
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/12d359f6-fb76-442c-b116-35fbf91adb35)
+
+### Result Modal
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2a9d820a-90fc-4011-9d86-5baff28f7643)
+
+### Additional Info Page
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/cfb565e5-a426-4d72-92f0-4a0fff35ea7f)
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/159e2000-4567-4e6a-a93e-9fdd763a7103)
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/333c58ec-d2f7-4e0e-9d54-1d8de02edf93)
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/b44fcd32-6b37-449b-91dd-11f1d16630c2)
+
+### Dashboard
+![image](https://github.com/QA-Lint/QA_Lint-web/assets/132425603/2b3dacc6-cf52-4780-8ef7-e9dc53c71507)
+
+
+## Credits
+
+This App is the intern-only project of Vurilo Nepal and Contributors include:
+
+- Bijaya Khanal (QA Engineer, bijaya@vurilo.com)
+- Akash Shrestha (Software Engineer, akash@vurilo.com)
+- Rajin Maharjan (Backend Developer, rajin@vurilo.com)
+- Prajwol Mnandhar (Frontend Developer(Web), prajwol@vurilo.com)
+- Pradeep Tharu (Flutter Developer(Mobile), pradeep@vurilo.com)
+- Suchit Kumar Mahatman (Flutter Developer (Mobile), suchit@vurilo.com)
